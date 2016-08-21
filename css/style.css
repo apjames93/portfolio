@@ -60,9 +60,8 @@ a:hover {
   text-decoration: none;
 }
 .projectLinks{
-  margin: auto;
-  top: 50%;
-  transform: translateY(-50%);
+  margin: 12px 0 0 10px;
+  float: left;
 }
 .links:hover {
   cursor: pointer;
