@@ -127,3 +127,17 @@ a:hover {
   float: left;
   margin: 10px 0;
 }
+.resume-svg{
+  width: 15px;
+  margin-right: 5px;
+  fill: #605f5e;
+}
+
+.resume h1, .resume h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.resume ul{
+  list-style: none;
+  padding: 0;
+}
