@@ -122,3 +122,9 @@ a:hover {
   border-right: 1px solid #DB3A34;
   border-left: 1px solid #DB3A34;
 }
+
+.project-header {
+  display: inline;
+  float: left;
+  margin: 10px 0;
+}
