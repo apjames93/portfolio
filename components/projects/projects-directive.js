@@ -7,7 +7,9 @@
       var directive = {
         restrict: 'E',
         templateUrl: '/templates/projects.html',
-        scope: {},
+        scope: {
+          project : '='
+        },
         controller: projectsController,
         controllerAs: 'projectsController'
       };
