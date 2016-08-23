@@ -21,7 +21,7 @@ h4, h2 {
 }
 
 hr {
-  border-color: #DB3A34;
+  border-color: #839791;
 }
 
 .myPic{
@@ -100,13 +100,14 @@ hr {
   margin-bottom: 0;
 }
 
+
 .links {
   position: relative;
   background-color: #605f5e;
-  height: 10vh;
+  height: 8vh;
   width: 100%;
   border: none;
-  border-bottom: 1px solid #DB3A34;
+  /*border-bottom: 1px solid #839791;*/
   display: block;
   padding: 10px 0;
   color: #f0f2ef;
@@ -122,13 +123,13 @@ a:hover {
 }
 .links:hover {
   cursor: pointer;
-  background-color: #DB3A34;
+  background-color: #839791;
   text-decoration: none;
-  border-bottom: 1px solid #DB3A34;
+  border-bottom: 1px solid #839791;
 }
 
 .links:focus {
-  background-color: #DB3A34;
+  background-color: #839791;
   outline:0;
 }
 
@@ -164,19 +165,19 @@ a:hover {
 }
 
 .nav-svg-box {
-  border-bottom: 1px solid #DB3A34;
+  /*border-bottom: 1px solid #839791;*/
   height: 10vh;
   transition: background-color .4s ease;
   position: relative;
 }
 
 .nav-svg-box:hover {
-  background-color: #DB3A34;
+  background-color: #839791;
 }
 
 .bordered{
-  border-right: 1px solid #DB3A34;
-  border-left: 1px solid #DB3A34;
+  /*border-right: 1px solid #839791;
+  border-left: 1px solid #839791;*/
 }
 
 .project-header {
