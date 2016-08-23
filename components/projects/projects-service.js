@@ -27,7 +27,6 @@
           github :  'https://github.com/apjames93/brick-breaker-game',
           Deployed : 'https://brick-breaker-game.firebaseapp.com'
         }];
-        console.log(projects);
         return projects;
       }
 
