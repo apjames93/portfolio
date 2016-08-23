@@ -202,3 +202,9 @@ a:hover {
 .project-row{
   margin-top: 15px;
 }
+.brakerbar{
+  background-color: #839791;
+  color: #f0f2ef;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
