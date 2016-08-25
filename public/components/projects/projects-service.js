@@ -11,7 +11,7 @@
       function projectsInfo(){
         var projects = [{
           title: 'Nightmare',
-          discription: 'This app is a first-person shooter game in which you kill zombies with a watergun.Technologies used angularJS, jwt bcrypt, Node.JS, Express, Knex.js Unity, C# and Blender to make the 3D map',
+          discription: 'This app is a first-person shooter game in which you kill zombies with a watergun.Technologies used angularJS, jwt bcrypt, Node.JS, Express, Knex.js Unity, C# and Blender to make the 3D map. ',
           github :  'https://github.com/The-Nightmare/App/blob/development/README.md',
           Deployed : 'https://nightmare-f6a77.firebaseapp.com',
           img : './img/nightmare.png'
