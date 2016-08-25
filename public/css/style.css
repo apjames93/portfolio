@@ -144,9 +144,13 @@ a:hover {
   margin-bottom: 50px;
 }
 .projectPic{
-  height:8em;
-  width: auto;
+  height:10em;
+  width: 10em;
   margin-bottom: 5vw;
+}
+.projectDiscription{
+  word-wrap: break-word;
+
 }
 .nav-svg{
   width: 35%;
