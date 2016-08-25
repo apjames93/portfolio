@@ -199,8 +199,8 @@ a:hover {
 }
 
 .resume h1, .resume h3 {
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 0em;
+  margin-bottom: 0em;
 }
 .resume ul{
   list-style: none;
