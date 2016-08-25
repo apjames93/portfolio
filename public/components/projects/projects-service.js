@@ -43,7 +43,7 @@
           discription: 'using jQuery and edmunds api app finds motor and transmission specs for cars.',
           github :  'https://github.com/apjames93/carProject',
           Deployed : 'https://carproject.firebaseio.com',
-          img : './img/Screen Shot 2016-08-22 at 10.27.44 AM.png'
+          img : './img/carProject.png'
         }];
         return projects;
       }
