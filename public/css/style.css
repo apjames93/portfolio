@@ -222,6 +222,9 @@ a:hover {
   padding: 2em;
   margin-top: 3em;
   margin-bottom: 3em;
-  height: 1vh;
+  height: 2em;
   width: auto;
+}
+.nav-name{
+  margin-left: .5em;
 }
