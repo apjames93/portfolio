@@ -32,6 +32,7 @@ h3{
 .sidenav{
   position: fixed;
   height: 100%;
+  width: auto;
   background-color: #605f5e;
   color: #f0f2ef;
   -webkit-box-shadow: 7px 0px 15px 0px rgba(10,17,40,0.28);
@@ -58,9 +59,8 @@ h3{
   margin: 0em;
   padding: 0em;
   margin-left: 4px;
-  width: 100%;
+  width: auto;
   height: 35%;
-
 }
 .top-links:hover {
   cursor: pointer;
