@@ -74,10 +74,9 @@ h3{
   background-color: #839791;
   outline:0;
 }
-
 .top-nav-svg{
   width: 35%;
-  height: 35%;
+  height: 50%;
   float: left;
   fill: #f0f2ef;
   position: relative;;
