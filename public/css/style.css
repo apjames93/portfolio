@@ -24,15 +24,15 @@ h3{
 }
 
 .myPic{
-  height: auto;
-  width: 98%;
-  margin-top: 1em;
-  margin-left: .5em;
+  height: 45%;
+  background-image: url("/img/myPic.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .sidenav{
   position: fixed;
   height: 100%;
-  width: auto;
   background-color: #605f5e;
   color: #f0f2ef;
   -webkit-box-shadow: 7px 0px 15px 0px rgba(10,17,40,0.28);
@@ -97,11 +97,11 @@ h3{
 .links {
   position: relative;
   background-color: #605f5e;
-  height: 8vh;
+  height: 100%;
   width: 100%;
   border: none;
   display: block;
-  padding: 10px 0;
+  /*padding: 10px 0;*/
   color: #f0f2ef;
   transition: background-color .4s ease;
 }
@@ -166,7 +166,7 @@ a:hover {
 
 .nav-svg-box {
   /*border-bottom: 1px solid #839791;*/
-  height: 5em;
+  height: 100%;
   transition: background-color .4s ease;
   position: relative;
 }
@@ -244,4 +244,16 @@ a:hover {
 }
 .resume-title{
   padding: 0;
+}
+.sidenav-names{
+  height: 15%;
+}
+
+.sidenav-names h1 {
+  margin-top: 0;
+  padding-top: 15px;
+}
+.side-nav-links{
+  height: 10%;
+
 }
