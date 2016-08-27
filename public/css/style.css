@@ -168,11 +168,6 @@ a:hover {
   background-color: #839791;
 }
 
-.bordered{
-  /*border-right: 1px solid #839791;
-  border-left: 1px solid #839791;*/
-}
-
 .project-header {
   display: inline;
   float: left;
