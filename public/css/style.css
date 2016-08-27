@@ -47,18 +47,17 @@ h3{
   color: #f0f2ef;
   z-index: 1;
   height: auto;
-  width: 100%;
 }
 .top-links{
   position: relative;
-  display: block;
+  /*display: block;*/
   background-color: #605f5e;
   border: none;
   color: #f0f2ef;
   transition: background-color .4s ease;
-  margin: 0em;
-  padding: 0em;
-  margin-left: 4px;
+  /*margin: 0em;*/
+  /*padding: 0em;*/
+  /*margin-left: 4px;*/
   width: auto;
   height: 35%;
 }
