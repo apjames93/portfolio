@@ -47,14 +47,10 @@ h3{
 }
 .top-links{
   position: relative;
-  /*display: block;*/
   background-color: #605f5e;
   border: none;
   color: #f0f2ef;
   transition: background-color .4s ease;
-  /*margin: 0em;*/
-  /*padding: 0em;*/
-  /*margin-left: 4px;*/
   width: auto;
   height: 35%;
 }
