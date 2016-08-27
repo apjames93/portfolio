@@ -224,6 +224,10 @@ a:hover {
   height: 2em;
   width: auto;
 }
-.nav-name{
-  margin-left: .5em;
+
+.footer {
+  background-color: #605f5e;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
 }
