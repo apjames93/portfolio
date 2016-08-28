@@ -32,6 +32,5 @@
           url: '/resume',
           templateUrl: '/templates/Alex-resume.html'
         });
-        // $locationProvider.html5Mode(true);
       });
 })();
