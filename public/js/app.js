@@ -6,7 +6,8 @@
      'portfolio.aboutMe',
      'portfolio.resume',
      'portfolio.projects',
-     'portfolio.nav'
+     'portfolio.nav',
+     'portfolio.mobileNav'
    ])
       .config(function($stateProvider, $urlRouterProvider, $locationProvider){
 
