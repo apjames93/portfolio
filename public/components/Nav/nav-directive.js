@@ -1,12 +1,12 @@
 (function(){
   angular
     .module('portfolio.nav.nav-directive', [])
-    .directive('nav', nav);
+    .directive('sideNav', sideNav);
 
-    function nav(){
+    function sideNav(){
       var directive = {
         restrict: 'E',
-        templateUrl: '/templates/nav.html',
+        templateUrl: '/templates/sideNav.html',
         scope: {},
       };
       return directive;
