@@ -7,7 +7,8 @@
      'portfolio.resume',
      'portfolio.projects',
      'portfolio.nav',
-     'portfolio.mobileNav'
+     'portfolio.mobileNav',
+     'portfolio.footer'
    ])
       .config(function($stateProvider, $urlRouterProvider, $locationProvider){
 
