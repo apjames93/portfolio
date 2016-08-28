@@ -158,7 +158,6 @@ a:hover {
 }
 
 .nav-svg-box {
-  /*border-bottom: 1px solid #839791;*/
   height: 100%;
   transition: background-color .4s ease;
   position: relative;
