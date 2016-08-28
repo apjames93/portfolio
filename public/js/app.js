@@ -8,7 +8,8 @@
      'portfolio.projects',
      'portfolio.nav',
      'portfolio.mobileNav',
-     'portfolio.footer'
+     'portfolio.footer',
+     'portfolio.topName'
    ])
       .config(function($stateProvider, $urlRouterProvider, $locationProvider){
 
