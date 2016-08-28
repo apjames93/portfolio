@@ -15,10 +15,10 @@
       };
       return directive;
 }
-projectsController.$inject = ['projectsService'];
-function projectsController(projectsService) {
-  projectsService.projectsInfo();
+
+  projectsController.$inject = ['projectsService'];
+
+  function projectsController(projectsService) {
+    projectsService.projectsInfo();
   }
-
-
 })();

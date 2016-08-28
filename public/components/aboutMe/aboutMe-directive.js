@@ -10,8 +10,5 @@
         scope: {},
       };
       return directive;
-}
-
-
-
+    }
 })();

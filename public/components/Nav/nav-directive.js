@@ -10,5 +10,5 @@
         scope: {},
       };
       return directive;
-}
+    }
 })();

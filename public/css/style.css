@@ -5,9 +5,8 @@ html{
 body {
   background-color: #f0f2ef;
   font-family: 'Roboto', sans-serif;
-  color: #605f5e
+  color: #605f5e;
 }
-
 
 h1 {
     font-weight: 300;
@@ -16,6 +15,7 @@ h1 {
 h4, h2 {
     font-weight: 200;
 }
+
 h3{
   padding: .5em;
 }
@@ -27,6 +27,7 @@ h3{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .sidenav{
   position: fixed;
   height: 100%;
@@ -38,6 +39,7 @@ h3{
   overflow-y: scroll;
   z-index: 1;
 }
+
 .top-nav{
   position: relative;
   background-color: #605f5e;
@@ -45,6 +47,7 @@ h3{
   z-index: 1;
   height: auto;
 }
+
 .top-links{
   position: relative;
   background-color: #605f5e;
@@ -54,6 +57,7 @@ h3{
   width: auto;
   height: 35%;
 }
+
 .top-links:hover {
   cursor: pointer;
   background-color: #839791;
@@ -62,10 +66,12 @@ h3{
   padding: 0;
   margin-right: 15px;
 }
+
 .top-links:focus {
   background-color: #839791;
   outline:0;
 }
+
 .top-nav-svg{
     width: 35%;
     height: 50%;
@@ -75,6 +81,7 @@ h3{
     left: 50%;
     transform: translate(-50%,-50%);
 }
+
 .footer-svg:hover {
   cursor: pointer;
   background-color: #839791;
