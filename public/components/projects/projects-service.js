@@ -35,7 +35,7 @@
           discription: 'Brick Braker made with vanilla JavaScript and HTML5 canvas just becuse.',
           github :  'https://github.com/apjames93/brick-breaker-game',
           Deployed : 'https://brick-breaker-game.firebaseapp.com',
-          img : './img/brickBraker.png'
+          img : './img/brickBreaker.png'
 
         },
         {

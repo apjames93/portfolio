@@ -141,7 +141,7 @@ a:hover {
 
 .projectPic{
   height:15em;
-  width: 15em;
+  width: auto;
   margin-bottom: 5vw;
 }
 
