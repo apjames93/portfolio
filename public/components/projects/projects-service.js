@@ -26,7 +26,7 @@
         {
           title: ' Todo-angular',
           discription: 'Walkthrough for making a decoupled AngularJS app with a restful api using JWT, postgreSQL, Knex.js, deploying to firebase/ heroku from start to finish.',
-          github :  'https://github.com/app-walkthrough-example/angular-decoupled-links-',
+          github :  'https://github.com/bam-walkthroughs/angular-decoupled-links',
           Deployed : 'https://angular-decoupled-app.firebaseapp.com/',
           img : './img/todo-angular.png'
         },
