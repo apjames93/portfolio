@@ -3,9 +3,9 @@
     .module('portfolio')
     .controller('homeController', homeController);
 
-    homeController.$inject= ['$scope', '$location', 'projectsService'];
+    homeController.$inject= ['$scope', '$location', 'projectsService', '$state'];
 
-    function homeController($scope, $location, projectsService){
-
+    function homeController($scope, $location, projectsServic, $state){
+      
     }
 })();
