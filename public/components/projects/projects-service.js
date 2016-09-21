@@ -10,6 +10,13 @@
       };
       function projectsInfo(){
         var projects = [{
+          title: 'Face of Few Emotions ',
+          discription: 'app using emotion detection to capture reactions to videos. you are able to log in and send videos you like you friends. Decoupled Angularjs  app using materialize for style, clmTracker for emotion detection , HTML5 to gain media access, nodemailer for emailing service, node/express backend, JWT for user authentication,  postgresQL for the database. ',
+          github :  'https://github.com/apjames93/videoapp-links',
+          Deployed : 'https://videoapp-71a17.firebaseapp.com/',
+          img : './img/face.jpg'
+        },
+        {
           title: 'Nightmare',
           discription: 'This app is a first-person shooter game in which you kill zombies with a watergun.Technologies used angularJS, jwt bcrypt, Node.JS, Express, Knex.js Unity, C# and Blender to make the 3D map. I was responsible for making the map with blender, door opening/closing functionality in unity with c#, AngularJS front end, JWT and bcrypt, database and backend Express routes/ queries',
           github :  'https://github.com/The-Nightmare',

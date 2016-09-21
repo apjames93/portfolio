@@ -11,6 +11,13 @@
      'portfolio.footer',
      'portfolio.topName'
    ])
+
+   .run([
+       "$rootScope", "$state", "$stateParams", function($rootScope, $state, $stateParams) {
+         $rootScope.$state = $state;
+         return $rootScope.$stateParams = $stateParams;
+       }
+     ])
       .config(function($stateProvider, $urlRouterProvider, $locationProvider){
 
       $urlRouterProvider.otherwise('/');

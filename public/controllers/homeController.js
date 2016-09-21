@@ -6,6 +6,6 @@
     homeController.$inject= ['$scope', '$location', 'projectsService', '$state'];
 
     function homeController($scope, $location, projectsServic, $state){
-      
+      $scope.$state = $state;
     }
 })();
