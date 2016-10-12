@@ -25,10 +25,14 @@ h3{
 
 .myPic{
   height: 45%;
-  background-image: url("/img/myPic.png");
+  background-image: url("/img/myPic.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+.myPicMobile{
+  height: 50px;
+  width: 50px;
 }
 
 .sidenav{
