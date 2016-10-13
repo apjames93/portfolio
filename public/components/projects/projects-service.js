@@ -51,7 +51,7 @@
           github :  'https://github.com/apjames93/carProject',
           Deployed : 'https://carproject.firebaseapp.com/',
           img : './img/carProject.png'
-        }];
+        }]; 
         return projects;
       }
 
